@@ -1,0 +1,19 @@
+Guido van Rossum
+Brendan Eich
+Yukihiro Matsumoto
+Rasmus Lerdorf
+James Gosling
+Anders Hejlsberg
+Larry Wall
+Ryan Dahl
+David Heinemeier Hansson
+Dan Abramov
+Taylor Otwell
+Dries Buytaert
+Chris Lattner
+Armin Ronacher
+Alex Martelli
+Ken Thompson
+Brian Kernighan
+Grace Hopper
+Alan Turing
